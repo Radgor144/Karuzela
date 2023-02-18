@@ -1,4 +1,4 @@
-// let activeSlideNumber = 0;
+let activeSlideNumber = 0;
 
 let leftArrow = document.querySelector("#left-arrow");
 let rightArrow = document.querySelector("#right-arrow");
